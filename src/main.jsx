@@ -9,6 +9,7 @@ const colors = {
     800: "#153e75",
     700: "#2a69ac",
   },
+  background: "#f3f2ee", // Added background color
 };
 
 const theme = extendTheme({ colors });
